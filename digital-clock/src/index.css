@@ -1,0 +1,14 @@
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(255, 190, 166);
+}
+
+.clock {
+  background-color: antiquewhite;
+  font-family: "Poppins", sans-serif;
+  border: 2px solid black;
+  font-size: 15vh;
+}
